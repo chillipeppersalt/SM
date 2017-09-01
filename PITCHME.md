@@ -35,5 +35,52 @@
 
 ---
 
+                     #SYSTEM MODELING 
+- It is the replica or duplicate copy of the system we wish to make, having all the characteristic of the system.
 
+---
+
+- It could be :
+
+* Physical Model: It is the **3d** representation of the **system**
+
+* Values can't be altered.
+
+---
+
+- **Further 2 types:**
+
+* Mockup: That tells how the system will lool like.
+
+* Prototype: How it'll work.
+
+---
+
+* Mathematical Model: Representation of the system on terms of **logical** & **quantitative** relationship that are manipulated to see how the system reacts.
+
+---
+
+                  #MATHEMATICAL MODEL CAN BE FURTHER DIVIDED INTO:
+
+* Analytical Model: Virtually anything that can be measured.
+
+- Arbitrary
+
+- Typically large
+
+- Probability/Statistics
+
+---
+
+* Simulation Model: 
+
+- Composed of limited basic building blocks.
+
+- Modest
+
+- Algebra to stochastic process.
+---
+   
+                   
+                           #THANK YOU
                                          
